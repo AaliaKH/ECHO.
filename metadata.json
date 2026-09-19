@@ -1,0 +1,8 @@
+{
+  "name": "ECHO.",
+  "description": "Emergency Communication Hop Offline - P2P Mesh Network with End-to-End Encrypted SOS Relays and Rescue Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
